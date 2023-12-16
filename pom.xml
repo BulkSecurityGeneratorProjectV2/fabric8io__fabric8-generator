@@ -65,7 +65,7 @@
   <repositories>
     <repository>
       <id>central.maven.org</id>
-      <url>http://central.maven.org/maven2</url>
+      <url>https://central.maven.org/maven2</url>
       <releases>
         <enabled>true</enabled>
       </releases>
@@ -75,7 +75,7 @@
     </repository>
     <repository>
       <id>repo.jenkins-ci.org</id>
-      <url>http://repo.jenkins-ci.org/public</url>
+      <url>https://repo.jenkins-ci.org/public</url>
     </repository>
     <repository>
       <id>jboss-public-repo</id>
